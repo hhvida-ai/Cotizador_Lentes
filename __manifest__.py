@@ -3,8 +3,7 @@
     "version": "17.0.1.0.0",
     "summary": "Series de micas, precios por serie y wizard de cotización basado en graduación",
     "category": "Custom/Optica",
-    "author": "Asistente - Óptica Zamora",
-    "website": "",
+    "author": "PeeWee"
     "license": "LGPL-3",
     "depends": ["base", "product", "sale_management", "contacts"],
     "data": [
