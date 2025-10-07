@@ -1,5 +1,5 @@
 class OpticaSeries(models.Model):
-  _name = 'optica.series'
+  _name = 'serie.lentes'
   _description = 'Series de micas por rango de esfera y cilindro'
 
 
